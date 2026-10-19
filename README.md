@@ -1,6 +1,6 @@
 # ESTRUCTURA DE DATOS
 
-# DATOS DEL ALUMNO
+# Datos del alumno
 
 NOMBRE:Anel Michelle Marinez Martinez
 
